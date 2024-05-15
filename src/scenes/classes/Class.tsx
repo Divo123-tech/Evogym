@@ -1,5 +1,3 @@
-import React from "react";
-
 export type ClassType = {
   name: string;
   description?: string;
